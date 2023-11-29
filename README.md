@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Rucha Ambaliya</h1>
 <h3 align="center">A passionate IT aspirant from India</h3>
 
+<img align="right" width="400" alt="coding" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"></img>
+
 - 🌱 I’m currently learning **JavaScript and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rucha-Ambaliya](https://github.com/Rucha-Ambaliya)
