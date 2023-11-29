@@ -1,3 +1,4 @@
+![logo](https://github.com/Rucha-Ambaliya/Rucha-Ambaliya/blob/main/Github_Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Rucha Ambaliya</h1>
 <h3 align="center">A passionate IT aspirant from India</h3>
 
