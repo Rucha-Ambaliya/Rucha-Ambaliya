@@ -8,7 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rucha-Ambaliya](https://github.com/Rucha-Ambaliya)
 
-- 💬 Ask me about **C, Python, HTML, CSS**
+- 💬 Ask me about **C, Java, HTML, CSS, JavaScript**
+
+- 🎯 Interested in **Blockchain Development and App Development**
 
 - 📫 How to reach me **ruchaambaliya@gmail.com**
 
