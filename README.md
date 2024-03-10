@@ -4,13 +4,13 @@
 
 <img align="right" width="400" alt="coding" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"></img>
 
-- 🌱 I’m currently learning **JavaScript and Java**
+- 🌱 I’m currently learning **DSA in Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rucha-Ambaliya](https://github.com/Rucha-Ambaliya)
 
 - 💬 Ask me about **C, Java, HTML, CSS, JavaScript**
 
-- 🎯 Interested in **Blockchain Development and App Development**
+- 🎯 Interested in **Blockchain Development and Web Development**
 
 - 📫 How to reach me **ruchaambaliya@gmail.com**
 
